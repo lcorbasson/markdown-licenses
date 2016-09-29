@@ -1,0 +1,7 @@
+- Add symlinks under fsf/ and osi/ matching the naming/tags used by them
+- Create gpl-compatible, osi-certified, etc. symlinks?
+- Merge/use data from https://github.com/github/choosealicense.com
+- Write tests: 
+  - Check that -txt and external/-data/text are equal
+  - Turn html/rdfa/md to txt and check coherence
+
