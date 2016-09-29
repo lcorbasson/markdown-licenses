@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/github/choosealicense.com.git
+	branch = gh-pages
+	commit = 08d8173bd8cdcf1f0a5c970c43ec288375eea0d1
+	parent = 5870e2fac98793261b930f1d24e296965ef2851d
+	cmdver = 0.3.0
