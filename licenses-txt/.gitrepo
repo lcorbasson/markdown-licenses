@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = http://git.spdx.org/license-list.git
+	branch = master
+	commit = f0db109e26cf8608004a7371323f991c808c4095
+	parent = 054309ce1fd29c70521b7fcfc3de305d6c759a46
+	cmdver = 0.3.0
